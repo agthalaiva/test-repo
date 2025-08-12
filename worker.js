@@ -8,10 +8,10 @@
  * Learn more at https://developers.cloudflare.com/workers/
  */
 
-import { greet } from './helper.js';
+import { greet, new_greet } from './helper.js';
 
 export default {
   async fetch(request, env, ctx) {
-    return new Response(greet('World 6!'));
+    return new Response(new_greets('World 87!'));
   }
 };
