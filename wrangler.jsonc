@@ -1,7 +1,5 @@
 {
-  "name": "worker-name",
+  "name": "test-wroker",
   "compatibility_date": "2025-08-12",
-  "assets": {
-    "directory": "./dist"
-  }
+  "main": "worker.js"
 }
