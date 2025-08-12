@@ -1,5 +1,5 @@
 {
-  "name": "test-wroker",
+  "name": "test-worker",
   "compatibility_date": "2025-08-12",
   "main": "worker.js"
 }
