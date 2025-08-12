@@ -12,6 +12,6 @@ import { greet, new_greet } from './helper.js';
 
 export default {
   async fetch(request, env, ctx) {
-    return new Response(new_greet('World 87!'));
+    return new Response(new_greets('World 87!'));
   }
 };
