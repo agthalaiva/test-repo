@@ -1,5 +1,5 @@
 export function greet(name) {
-  return `Hello unbundled, ${name}!`;
+  return `Hello unbundleds, ${name}!`;
 }
 
 export function new_greet(name) {
