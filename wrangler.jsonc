@@ -1,5 +1,6 @@
 {
   "name": "test-wrtker",
   "compatibility_date": "2025-08-12",
-  "main": "worker.js"
+  "main": "worker.js",
+  "type": "module"
 }
