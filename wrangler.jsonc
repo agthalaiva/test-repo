@@ -2,5 +2,12 @@
   "name": "test-wrtker",
   "compatibility_date": "2025-08-12",
   "main": "worker.js",
-  "type": "module"
+  "find_additional_modules": true,
+  "base_dir": "./",
+  "rules": [
+    {
+      "type": "ESModule",
+      "globs": ["helper.mjs"]
+    }
+  ]
 }
