@@ -1,0 +1,4 @@
+name = "test-worker"
+main = "worker.js"
+compatibility_date = "2025-09-08"
+type = "module"
