@@ -1,7 +1,7 @@
 export function greet(name) {
-  return `Hello, ${name}!`;
+  return `Hello new , ${name}!`;
 }
 
 export function new_greet(name) {
-  return `bye, ${name}!`;
+  return `bye new, ${name}!`;
 }
